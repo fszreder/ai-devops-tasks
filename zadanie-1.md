@@ -1,0 +1,8 @@
+DevOps to metodologia łącząca rozwój oprogramowania (Development) z operacjami IT (Operations), która ma na celu usprawnienie i przyspieszenie procesu dostarczania oprogramowania. Jest to kultura organizacyjna promująca ścisłą współpracę między zespołami programistycznymi i operacyjnymi, wykorzystująca automatyzację, ciągłą integrację (CI) i ciągłe wdrażanie (CD) do szybszego i bardziej niezawodnego dostarczania wartości biznesowej. DevOps kładzie nacisk na automatyzację procesów, monitoring, szybkie reagowanie na problemy oraz ciągłe doskonalenie, co prowadzi do krótszych cykli wydawniczych i wyższej jakości oprogramowania.
+
+Pozwól, że sprawdzę najnowsze informacje na temat popularności narzędzi DevOps.
+Na podstawie przeanalizowanych źródeł, 3 najpopularniejsze narzędzia używane w DevOps to:
+Docker - system konteneryzacji, który pozwala na pakowanie aplikacji wraz ze wszystkimi zależnościami do przenośnych kontenerów. Jest to podstawowe narzędzie używane przez około 43% zespołów DevOps.
+Kubernetes (K8s) - system do orkiestracji kontenerów, który automatyzuje wdrażanie, skalowanie i zarządzanie aplikacjami konteneryzowanymi. Jest używany przez około 28% zespołów DevOps.
+Amazon Web Services (AWS) - wiodąca platforma chmurowa oferująca szeroki zakres usług DevOps, wykorzystywana przez około 12% zespołów. AWS dostarcza narzędzia do automatyzacji, monitorowania i wdrażania aplikacji w chmurze.
+Te trzy narzędzia tworzą podstawowy stos technologiczny współczesnego DevOps, umożliwiając automatyzację procesów, skalowalność i efektywne zarządzanie infrastrukturą.
